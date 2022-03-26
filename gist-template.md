@@ -18,9 +18,7 @@ This is used for matching an email
 - [Flags](#flags)
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Boundaries](#boundaries)
-- [Bracket Expressions](#bracket-expressions)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+
 
 ## Regex Components
 /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
